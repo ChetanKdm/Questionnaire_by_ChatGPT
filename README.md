@@ -37,6 +37,10 @@ _These are the questionnaires built by ChatGPT for my field visits._
 29. Do you offer any services or products related to plastic recycling beyond the actual recycling process?
 30. Can you provide any examples of successful projects or partnerships that your company has undertaken in the area of plastic recycling?
 
+![Screenshot_2](https://user-images.githubusercontent.com/34301365/209962087-312441f0-cc31-40a8-a217-bd2bf254e385.png)
+![Screenshot_3](https://user-images.githubusercontent.com/34301365/209962112-fa5522a9-5bbe-482e-8fd3-527710445a1e.png)
+![Screenshot_4](https://user-images.githubusercontent.com/34301365/209962159-e8fb4bfc-5d29-4621-9a5c-f0e6a9eb58df.png)
+
 ***build a questionnaire for the beekeeping community***
 1. How long have you been keeping bees?
 2. What inspired you to start keeping bees?
@@ -58,3 +62,7 @@ _These are the questionnaires built by ChatGPT for my field visits._
 18. Are you a member of any local beekeeping organizations or clubs?
 19. Do you have any upcoming events or workshops related to beekeeping that you would like to share with the community?
 20. Is there anything else you would like to share about your beekeeping experience?
+
+![Screenshot_5](https://user-images.githubusercontent.com/34301365/209962184-9235e0fe-c73e-4f13-95da-3e38d0e8e534.png)
+![Screenshot_6](https://user-images.githubusercontent.com/34301365/209962200-8c50bed7-04b3-4536-9c19-2049aa472090.png)
+
